@@ -78,4 +78,6 @@ The **Abacus login** process is the key to unlocking a secure and private tradin
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/img/vision.webp" alt="Abacus Login Guide" style="max-width: 100%;"></a>
 <a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/img/margin.webp" alt="Abacus Registration Steps" style="max-width: 100%;"></a>
 
-Update:  07/14/2025 Updated contributor profile links
+
+
+Update:  18.07.2025 15:08:55 url is back online and functioning
