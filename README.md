@@ -80,4 +80,6 @@ The **Abacus login** process is the key to unlocking a secure and private tradin
 
 
 
-Update:  18.07.2025 15:08:55 url is back online and functioning
+
+
+Update:  21.07.2025 22:08:27
